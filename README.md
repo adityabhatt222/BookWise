@@ -1,4 +1,5 @@
-BookStore
+BookWise
+
 Welcome to BookStore, a full-stack web application for managing and browsing a collection of books.
 
 Features
